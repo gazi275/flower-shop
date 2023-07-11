@@ -2,15 +2,36 @@
     margin: 0;
     padding: 0;
 }
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: burlywood;
+    height: 100px;
+    padding: 10px 150px;
+}
+.about{
+    display: flex;
+    gap: 26px;
+}
+ul{
+    list-style: none;
+
+} li a{
+    text-decoration: none;
+    border: 1px solid ;
+    border: none;
+}
+li a:hover{
+    background-color: #E55473;
+    font-size: 28;
+    color: white;
+}
 
 .header-container{
    
    background-color: rgba(229, 84, 115, 0.10);
    height:915px; 
-   
-   
-
-
 }
 .heading-moral{
     
@@ -208,7 +229,7 @@ input{
     margin-bottom: 10px;
 }
 .foot{
-    height: 250px;
+    height: 100px;
     background-color:#111010;
     padding: 250px 610px 179px 600px ;
 }
@@ -240,7 +261,5 @@ margin-top: 15px;
 text-align: center;
 font-family: Lato;
 font-size: 16px;
-font-style: normal;
 font-weight: 400;
-line-height: normal;
 }
