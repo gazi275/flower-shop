@@ -1,0 +1,149 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+.header-container{
+   
+   background-color: rgba(229, 84, 115, 0.10);
+   height:915px; 
+   width: 1920px;
+   
+
+
+}
+.heading-moral{
+    
+     padding: 10px 240px 365px 240px;
+     display: flex;
+     justify-content: space-between;
+     gap: 100px;
+     align-items: center;
+
+     
+
+
+}
+h1{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800; 
+}
+.spacing{
+    margin-top: 30px;
+}
+.extra-description{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.btn{
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-weight: 700;
+border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+margin-top: 30px;
+border: none;
+
+}
+.rose-pic{
+
+ text-align: end;
+width: 700px;
+  height: 900px;
+ padding: 5px 20px 0px 100px; */
+  
+
+} 
+.flower-container{
+    padding: 50px 240px 365px 240px;
+    text-align: center; 
+    margin-top: 40px;
+}.name{
+    color: #272727;
+
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}.name-des{
+    color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 35px;
+margin-top: 20px;
+
+}
+.flower-pic{
+    display: flex;
+   
+    justify-content: space-between;
+    align-items: center;}
+   
+.flower-info1{
+    margin-top: 20PX;
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+   
+}
+.rose{
+    margin: 110px 78px 0px 70px;
+    width: 310px;
+height: 428px;
+}.flower-info2{
+    margin-top: 20px;
+    margin-left: 24px;
+    width: 400px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    
+   
+}
+.daisy{
+    margin: 110px 47px 51px 47px;
+    width: 370px;
+height: 370px;
+}
+.flower-info3{
+    margin-top: 20px;
+    margin-left: 24px;
+    width: 400px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.flower-tree1{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+margin-top: 27px;
+}
+.flower-tree{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+margin-top: 20px;
+}
