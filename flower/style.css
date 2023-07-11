@@ -147,3 +147,34 @@ line-height: 35px;
 text-decoration-line: underline;
 margin-top: 20px;
 }
+.offer{
+   
+width: 1922px;
+height: 620px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+}
+.offer-per{
+    padding: 10px 423px  423px;
+    display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 30px;
+}
+.offer-img{
+    padding: 100px;
+}
+.btn1{
+    
+        color: #FFF;
+        font-family: Lato;
+        font-size: 20px;
+        font-weight: 700;
+        border-radius: 8px;
+        background: #E55473;
+        padding: 20px 43px;
+        margin-top: 30px;
+        border: none;
+        text-align: center;
+}
