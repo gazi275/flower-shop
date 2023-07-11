@@ -57,14 +57,15 @@ border: none;
  text-align: end;
 width: 700px;
   height: 900px;
- padding: 5px 20px 0px 100px; */
+ padding: 5px 20px 0px 100px; 
   
 
 } 
 .flower-container{
-    padding: 50px 240px 365px 240px;
+    padding: 50px 240px 200px 240px;
     text-align: center; 
     margin-top: 20px;
+   
     
 }.name{
     color: #272727;
@@ -219,7 +220,7 @@ input{
     font-weight: 800;
 }
 .last{
-    margin-top: none;
+    margin-top: 0;
 }
 .footer-des{
     margin-top: 40px;
