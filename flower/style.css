@@ -7,7 +7,7 @@
    
    background-color: rgba(229, 84, 115, 0.10);
    height:915px; 
-   width: 1920px;
+   
    
 
 
@@ -64,30 +64,28 @@ width: 700px;
 .flower-container{
     padding: 50px 240px 365px 240px;
     text-align: center; 
-    margin-top: 40px;
+    margin-top: 20px;
+    
 }.name{
     color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
 
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
 }.name-des{
     color: rgba(39, 39, 39, 0.60);
-
-font-family: Lato;
-font-size: 18px;
-
-font-weight: 400;
-line-height: 35px;
-margin-top: 20px;
+    max-width: 550px;
+    margin: 0px auto;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 35px;
+    margin-top: 20px;
 
 }
 .flower-pic{
     display: flex;
-   
-    justify-content: space-between;
+   justify-content: space-between;
     align-items: center;}
    
 .flower-info1{
@@ -101,21 +99,19 @@ margin-top: 20px;
 .rose{
     margin: 110px 78px 0px 70px;
     width: 310px;
-height: 428px;
+    height: 428px;
 }.flower-info2{
     margin-top: 20px;
     margin-left: 24px;
     width: 400px;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
-    background: rgba(5, 151, 160, 0.15);
-    
-   
+    background: rgba(5, 151, 160, 0.15); 
 }
 .daisy{
     margin: 110px 47px 51px 47px;
     width: 370px;
-height: 370px;
+    height: 370px;
 }
 .flower-info3{
     margin-top: 20px;
@@ -123,51 +119,48 @@ height: 370px;
     width: 400px;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
-background: rgba(71, 125, 17, 0.15);
+    background: rgba(71, 125, 17, 0.15);
 }
 .flower-tree1{
     color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 24px;
-font-style: normal;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
-margin-top: 27px;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    margin-top: 27px;
+}
+a{
+    color: #272727;  
 }
 .flower-tree{
     color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 24px;
-font-style: normal;
-font-weight: 700;
-line-height: 35px;
-text-decoration-line: underline;
-margin-top: 20px;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    margin-top: 20px;
 }
 .offer{
-   
-width: 1922px;
-height: 620px;
-border-radius: 8px;
-background: rgba(229, 84, 115, 0.05);
-
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
 }
 .offer-per{
-    padding: 10px 423px  423px;
+    padding: 10px 270px ;
     display: flex;
-justify-content: space-between;
-align-items: center;
-gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
 }
 .offer-img{
     padding: 100px;
 }
 .btn1{
-    
-        color: #FFF;
+       color: #FFF;
         font-family: Lato;
         font-size: 20px;
         font-weight: 700;
@@ -177,4 +170,76 @@ gap: 30px;
         margin-top: 30px;
         border: none;
         text-align: center;
+}
+span{
+    color: #E55473;
+}
+.social{
+    margin-top: 50px;
+    text-align: center;
+}
+.new-img{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.items{
+ 
+    background-image: url("Rectangle\ 9.png");
+    height: 449px;
+
+}.items-header{
+    padding-top: 150px;
+    padding-bottom: 121px;
+}
+
+input{
+     width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    padding-left: 15px;
+
+}
+.items{ 
+    margin-top: 121px;
+    margin-bottom: 10px;
+}
+.foot{
+    height: 250px;
+    background-color:#111010;
+    padding: 250px 610px 179px 600px ;
+}
+.shopname{
+    text-align: center;
+        color: #FFFFFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+}
+.last{
+    margin-top: none;
+}
+.footer-des{
+    margin-top: 40px;
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 10px;
+}.copyright
+{
+margin-top: 15px;
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
